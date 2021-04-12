@@ -31,6 +31,7 @@ I'm a Software QA Analyst and a software development teacher.
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![ReactNative Bagde](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron Bagde](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Cypress Badge](https://img.shields.io/badge/Cypress-000?style=flat-square&logo=cypress&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -39,7 +40,7 @@ I'm a Software QA Analyst and a software development teacher.
 
 
 #### Education
-- 👩‍🎓 Information technology\ 
+- 👩‍🎓 Information technology\
 📅 2016 - 2019\
 📍 Senac São Paulo - Araraquara, Brazil
 
