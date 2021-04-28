@@ -6,7 +6,7 @@
 📫 How to reach me: [anapsmendess@gmail.com](mailto:anapsmendess@gmail.com).
 
 #### About me
-I'm a Software QA Analyst and a software development teacher.
+I'm a Software QA Analyst and a Programming teacher.
 
 #### Experience 
 - 👩‍💻 Software QA Analyst\
@@ -22,7 +22,7 @@ I'm a Software QA Analyst and a software development teacher.
 ![Trello Badge](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 
 
-- 👩‍🏫 Software Development teacher\
+- 👩‍🏫 Programming teacher\
 :date: 07/2019 - Moment\
 📍 Senac São Paulo
 
