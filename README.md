@@ -10,7 +10,7 @@ I'm a Software QA Analyst and a software development teacher.
 
 #### Experience 
 - 👩‍💻 Software QA Analyst\
-📅 2018 - Moment\
+📅 08/2018 - Moment\
 📍 Ebusiness4us INC 
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@ I'm a Software QA Analyst and a software development teacher.
 
 
 - 👩‍🏫 Software Development teacher\
-:date: 2019 - Moment\
+:date: 07/2019 - Moment\
 📍 Senac São Paulo
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
