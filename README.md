@@ -1,20 +1,25 @@
 ### Hi, I'm Ana 👩‍💻
-#
+
+I'm a Software QA Analyst and a Programming teacher.
+
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anapmendes/)](https://github.com/anapmendes/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a.pmendes/)](https://www.instagram.com/a.pmendes/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapsmendess/)](https://www.linkedin.com/in/anapsmendess/)\
 📫 How to reach me: [anapsmendess@gmail.com](mailto:anapsmendess@gmail.com).
 
-#### About me
-I'm a Software QA Analyst and a Programming teacher.
+
 
 #### Experience 
 - 👩‍💻 Software QA Analyst\
 📅 08/2018 - Moment\
-📍 Ebusiness4us INC 
+📍 Ebusiness4us INC\
+👩‍💼 Responsibilities: planning project of Tests, analysis functional requirements, test case specification and test environment, automated test for web applications and API's, Test Scenarios (BDD), Test Cases, Running Tests, and manage bugs workflow.
+
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Cypress Badge](https://img.shields.io/badge/Cypress-000?style=flat-square&logo=cypress&logoColor=white)
+![Cucumber Badge](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Postman Bagde](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
@@ -24,7 +29,9 @@ I'm a Software QA Analyst and a Programming teacher.
 
 - 👩‍🏫 Programming teacher\
 :date: 07/2019 - Moment\
-📍 Senac São Paulo
+📍 Senac São Paulo\
+👩‍💼 Responsibilities: project analysis, documentation for development, logic programming, test techniques and software quality, desktop, mobile, and web development. Soft skills: ethics in work environment, teamwork, communication, research and writing skills.
+
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
