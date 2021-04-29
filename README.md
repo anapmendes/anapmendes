@@ -30,7 +30,7 @@ I'm a Software QA Analyst and a Programming teacher.
 - 👩‍🏫 Programming teacher\
 :date: 07/2019 - Moment\
 📍 Senac São Paulo\
-👩‍💼 Responsibilities: project analysis, documentation for development, logic programming, test techniques and software quality, desktop, mobile, and web development. Soft skills: ethics in work environment, teamwork, communication, research and writing skills.
+👩‍💼 Teaching: project analysis, documentation for development, logic programming, test techniques and software quality, desktop, mobile, and web development. Soft skills: ethics in work environment, teamwork, communication, research and writing skills.
 
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
