@@ -14,6 +14,8 @@ I'm a Senior Software QA Analyst and a Programming teacher.
 📅 07/2021 - Moment\
 📍 Invillia\
 👩‍💼 Responsibilities: planning project of Tests, analysis functional requirements, test case specification and test environment, automated test for web applications, APIs and mobile apps, Test Scenarios (BDD), Test Cases, Running Tests, and manage bugs workflow.
+
+
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Cucumber Badge](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
