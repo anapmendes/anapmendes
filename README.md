@@ -22,7 +22,7 @@ I'm a Senior Software QA Analyst and a Programming teacher.
 ![SQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Postman Bagde](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Apache JMeter Badge](https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Apache JMeter Badge](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 
 
