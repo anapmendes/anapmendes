@@ -11,7 +11,7 @@ I'm a Senior Software QA Analyst and a Programming teacher.
 
 #### Experience 
 - 👩‍💻 Senior Software Quality Analyst\
-📅 07/2021 - Moment\
+📅 05/2021 - Moment\
 📍 Invillia\
 👩‍💼 Responsibilities: planning project of Tests, analysis functional requirements, test case specification and test environment, automated test for web applications, APIs and mobile apps, Test Scenarios (BDD) and manage bugs workflow.
 
