@@ -11,7 +11,13 @@ I'm a Senior Software QA Analyst and a Programming teacher.
 
 #### Experience 
 - 👩‍💻 Senior Software Quality Analyst\
-📅 05/2021 - Moment\
+📅 10/2021 - Moment\
+📍 Trybe\
+👩‍💼 Responsibilities: planning project of Tests, analysis functional requirements, test case specification and test environment, automated test for web applications, APIs and mobile apps, Test Scenarios (BDD) and manage bugs workflow.
+
+
+- 👩‍💻 Sr Software Quality Analyst\
+📅 05/2021 - 10/2021\
 📍 Invillia\
 👩‍💼 Responsibilities: planning project of Tests, analysis functional requirements, test case specification and test environment, automated test for web applications, APIs and mobile apps, Test Scenarios (BDD) and manage bugs workflow.
 
@@ -27,7 +33,7 @@ I'm a Senior Software QA Analyst and a Programming teacher.
 
 
 - 👩‍🏫 Programming teacher\
-:date: 07/2019 - Moment\
+:date: 07/2019 - 10/2021\
 📍 Senac São Paulo\
 👩‍💼 Teaching: project analysis, documentation for development, logic programming, test techniques and software quality, desktop, mobile, and web development. Soft skills: ethics in work environment, teamwork, communication, research and writing skills.
 
