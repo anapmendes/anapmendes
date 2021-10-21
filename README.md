@@ -1,6 +1,6 @@
 ### Hi, I'm Ana 👩‍💻
 
-I'm a Senior Software QA Analyst and a Programming teacher.
+I'm a Senior Software QA at Trybe.
 
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anapmendes/)](https://github.com/anapmendes/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a.pmendes/)](https://www.instagram.com/a.pmendes/)
