@@ -10,7 +10,7 @@ I'm a Senior Software QA at Trybe.
 
 
 #### Experience 
-- 👩‍💻 Senior Software Quality Analyst\
+- 👩‍💻 Senior Software Quality Assurance\
 📅 10/2021 - Moment\
 📍 Trybe\
 👩‍💼 Responsibilities: planning project of Tests, analysis functional requirements, test case specification and test environment, automated test for web applications, APIs and mobile apps, Test Scenarios (BDD) and manage bugs workflow.
